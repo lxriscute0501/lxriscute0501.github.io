@@ -4,7 +4,7 @@
   <id>https://lxriscute0501.github.io/</id>
   <title>lxriscute</title>
   <subtitle>A blog about travel, science and reading. It is a place where I share my thoughts and experiences.</subtitle>
-  <updated>2025-07-12T18:52:15+08:00</updated>
+  <updated>2025-07-13T00:45:03+08:00</updated>
   <author>
     <name>Li Xuanran</name>
     <uri>https://lxriscute0501.github.io/</uri>
@@ -20,51 +20,79 @@
 
   
   <entry>
-    <title>古拉格群岛（上）</title>
-    <link href="https://lxriscute0501.github.io/posts/the-gulag-archipelago/" rel="alternate" type="text/html" title="古拉格群岛（上）" />
-    <published>2025-07-12T18:23:00+08:00</published>
+    <title>古拉格群岛 第三部：劳动消灭营</title>
+    <link href="https://lxriscute0501.github.io/posts/the-gulag-archipelago-3/" rel="alternate" type="text/html" title="古拉格群岛 第三部：劳动消灭营" />
+    <published>2025-07-13T00:33:00+08:00</published>
   
-    <updated>2025-07-12T18:23:00+08:00</updated>
+    <updated>2025-07-13T00:33:00+08:00</updated>
   
-    <id>https://lxriscute0501.github.io/posts/the-gulag-archipelago/</id>
-    <content type="text/html" src="https://lxriscute0501.github.io/posts/the-gulag-archipelago/" />
+    <id>https://lxriscute0501.github.io/posts/the-gulag-archipelago-3/</id>
+    <content type="text/html" src="https://lxriscute0501.github.io/posts/the-gulag-archipelago-3/" />
     <author>
       <name>Li Xuanran</name>
     </author>
 
   
     
-    <category term="Reading" />
+    <category term="读书笔记" />
+    
+    <category term="古拉格群岛" />
     
   
 
-  <summary>苏联政治集中营</summary>
+  <summary>走冰面和乘轮船去索洛维茨是怎么回事？白卫军行政科和契卡情侦科之间的斗争。小偷“公社”。为什么斯大林要搞白海——波罗的海运河？“拿罐头盒子给你当鞋穿！”太子城——自由城。群岛下面的三条鲸鱼。零下五十摄氏度的劳动。伊万·杰尼索维奇除了劳动以外没有别的出路。科雷马的“有轨电车”。专打已经倒下的人！亚库梯人如何把泽克们送出科雷马。旋转木马式的乐观主义。泰加森林的法则。古拉格之子。女囚劳改点上的押解队士兵和女犯。哪些自由民往这里聚？我们是怎样劳动的？......</summary>
 
   </entry>
 
   
   <entry>
-    <title>Test</title>
-    <link href="https://lxriscute0501.github.io/posts/test/" rel="alternate" type="text/html" title="Test" />
-    <published>2025-07-12T16:34:00+08:00</published>
+    <title>古拉格群岛 第二部：永恒的运动</title>
+    <link href="https://lxriscute0501.github.io/posts/the-gulag-archipelago-2/" rel="alternate" type="text/html" title="古拉格群岛 第二部：永恒的运动" />
+    <published>2025-07-12T18:23:00+08:00</published>
   
-    <updated>2025-07-12T16:34:00+08:00</updated>
+    <updated>2025-07-12T18:23:00+08:00</updated>
   
-    <id>https://lxriscute0501.github.io/posts/test/</id>
-    <content type="text/html" src="https://lxriscute0501.github.io/posts/test/" />
+    <id>https://lxriscute0501.github.io/posts/the-gulag-archipelago-2/</id>
+    <content type="text/html" src="https://lxriscute0501.github.io/posts/the-gulag-archipelago-2/" />
     <author>
       <name>Li Xuanran</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="读书笔记" />
     
-    <category term="test" />
+    <category term="古拉格群岛" />
     
   
 
-  <summary>test</summary>
+  <summary>他们是怎样被装进“泽克车厢”的？第一次与盗贼相遇！罪犯们如何从“泽克车厢”里发出信件？盗贼们如何在“乌鸦车”内横行？被捕后的第一封信！古比雪夫递解站上的女人！多么难以和权力分手！“红色列车”对国家的好处！严寒中的接站！向极北地区的步行押送！怎样把我调出了劳改营？关于沙拉施卡的传说！布蒂尔卡七十五号监室里的人们！牢房里的科技协会！大学生的歌......</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>古拉格群岛 第一部：监狱工业</title>
+    <link href="https://lxriscute0501.github.io/posts/the-gulag-archipelago-1/" rel="alternate" type="text/html" title="古拉格群岛 第一部：监狱工业" />
+    <published>2025-07-12T18:23:00+08:00</published>
+  
+    <updated>2025-07-12T18:23:00+08:00</updated>
+  
+    <id>https://lxriscute0501.github.io/posts/the-gulag-archipelago-1/</id>
+    <content type="text/html" src="https://lxriscute0501.github.io/posts/the-gulag-archipelago-1/" />
+    <author>
+      <name>Li Xuanran</name>
+    </author>
+
+  
+    
+    <category term="读书笔记" />
+    
+    <category term="古拉格群岛" />
+    
+  
+
+  <summary>如何进入群岛？被逮捕的感觉是什么？几条最大的水流是什么？谁能想到二十世纪会有刑讯？每一个“我”都可能成为什么人？我走进的第一个监室是什么样的？早期的卢宾卡生活是什么样的？被俘人员的经历是什么？俄国流亡者的命运是什么？特别庭是如何宣判的？法律是如何逐渐壮大、走向成熟的？他们是如何被处以“最高措施”——枪决的？被当作反革命行动的绝食是怎样进行的？......</summary>
 
   </entry>
 
@@ -84,9 +112,9 @@
 
   
     
-    <category term="Travel" />
+    <category term="游记" />
     
-    <category term="🇻🇳Vietnam" />
+    <category term="🇻🇳越南" />
     
   
 
@@ -117,32 +145,6 @@
   
 
   <summary>The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.  Generate the favicon  Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Getting Started</title>
-    <link href="https://lxriscute0501.github.io/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T20:55:00+08:00</published>
-  
-    <updated>2019-08-09T20:55:00+08:00</updated>
-  
-    <id>https://lxriscute0501.github.io/posts/getting-started/</id>
-    <content type="text/html" src="https://lxriscute0501.github.io/posts/getting-started/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
-    
-  
-
-  <summary>Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.</summary>
 
   </entry>
 
