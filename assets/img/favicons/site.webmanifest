@@ -3,7 +3,7 @@
 {
   "name": "lxriscute",
   "short_name": "lxriscute",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "description": "A blog about travel, science and reading. It is a place where I share my thoughts and experiences.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",

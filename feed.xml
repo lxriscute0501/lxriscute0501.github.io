@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/</id>
   <title>lxriscute</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-07-10T18:07:11+00:00</updated>
+  <subtitle>A blog about travel, science and reading. It is a place where I share my thoughts and experiences.</subtitle>
+  <updated>2025-07-12T09:37:28+00:00</updated>
   <author>
     <name>Li Xuanran</name>
     <uri>/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>test travelling Vietnam</title>
+    <link href="/posts/test/" rel="alternate" type="text/html" title="test travelling Vietnam" />
+    <published>2025-07-12T08:34:00+00:00</published>
+  
+    <updated>2025-07-12T08:34:00+00:00</updated>
+  
+    <id>/posts/test/</id>
+    <content type="text/html" src="/posts/test/" />
+    <author>
+      <name>Li Xuanran</name>
+    </author>
+
+  
+    
+    <category term="Travel" />
+    
+    <category term="Vietnam" />
+    
+  
+
+  <summary>Da Nang</summary>
+
+  </entry>
 
   
   <entry>
