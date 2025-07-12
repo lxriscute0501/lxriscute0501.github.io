@@ -16,10 +16,11 @@ timezone: Asia/Beijing
 
 title: lxriscute # the main title
 
-tagline: Travel & Science # it will display as the subtitle
+tagline: Travel & Science & Reading # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A blog about travel, science and reading.
+  It is a place where I share my thoughts and experiences.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
