@@ -4,7 +4,7 @@
   <id>https://lxriscute0501.github.io/</id>
   <title>lxriscute</title>
   <subtitle>A blog about travel, science and reading. It is a place where I share my thoughts and experiences.</subtitle>
-  <updated>2025-07-13T00:45:03+08:00</updated>
+  <updated>2025-07-13T15:58:47+08:00</updated>
   <author>
     <name>Li Xuanran</name>
     <uri>https://lxriscute0501.github.io/</uri>
@@ -98,14 +98,14 @@
 
   
   <entry>
-    <title>越南·岘港</title>
-    <link href="https://lxriscute0501.github.io/posts/Vietnam-Da-Nang/" rel="alternate" type="text/html" title="越南·岘港" />
-    <published>2024-07-31T00:00:00+08:00</published>
+    <title>柬埔寨·暹粒  Cambodia·Siem Reap</title>
+    <link href="https://lxriscute0501.github.io/posts/Cambodia-Siem-Reap/" rel="alternate" type="text/html" title="柬埔寨·暹粒  Cambodia·Siem Reap" />
+    <published>2025-01-21T00:00:00+08:00</published>
   
-    <updated>2024-07-31T00:00:00+08:00</updated>
+    <updated>2025-01-21T00:00:00+08:00</updated>
   
-    <id>https://lxriscute0501.github.io/posts/Vietnam-Da-Nang/</id>
-    <content type="text/html" src="https://lxriscute0501.github.io/posts/Vietnam-Da-Nang/" />
+    <id>https://lxriscute0501.github.io/posts/Cambodia-Siem-Reap/</id>
+    <content type="text/html" src="https://lxriscute0501.github.io/posts/Cambodia-Siem-Reap/" />
     <author>
       <name>Li Xuanran</name>
     </author>
@@ -114,37 +114,37 @@
     
     <category term="游记" />
     
-    <category term="🇻🇳越南" />
+    <category term="🇰🇭柬埔寨" />
     
   
 
-  <summary>##</summary>
+  <summary></summary>
 
   </entry>
 
   
   <entry>
-    <title>Customize the Favicon</title>
-    <link href="https://lxriscute0501.github.io/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-11T00:34:00+08:00</published>
+    <title>柬埔寨·西哈努克港  Cambodia·Sihanoukville</title>
+    <link href="https://lxriscute0501.github.io/posts/Cambodia-Sihanoukville/" rel="alternate" type="text/html" title="柬埔寨·西哈努克港  Cambodia·Sihanoukville" />
+    <published>2025-01-18T00:00:00+08:00</published>
   
-    <updated>2019-08-11T00:34:00+08:00</updated>
+    <updated>2025-01-18T00:00:00+08:00</updated>
   
-    <id>https://lxriscute0501.github.io/posts/customize-the-favicon/</id>
-    <content type="text/html" src="https://lxriscute0501.github.io/posts/customize-the-favicon/" />
+    <id>https://lxriscute0501.github.io/posts/Cambodia-Sihanoukville/</id>
+    <content type="text/html" src="https://lxriscute0501.github.io/posts/Cambodia-Sihanoukville/" />
     <author>
-      <name>cotes</name>
+      <name>Li Xuanran</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="游记" />
     
-    <category term="Tutorial" />
+    <category term="🇰🇭柬埔寨" />
     
   
 
-  <summary>The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.  Generate the favicon  Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...</summary>
+  <summary></summary>
 
   </entry>
 
