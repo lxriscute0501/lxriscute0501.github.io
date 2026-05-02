@@ -319,7 +319,7 @@ body.theme-luka .timeline-item::after {
 body.theme-luka .experience-item {
   display: flex;
   align-items: flex-start;
-  gap: 16px;
+  gap: 18px;
 }
 
 body.theme-luka .institution-logo {
@@ -337,7 +337,7 @@ body.theme-luka .experience-content p {
 }
 
 body.theme-luka .exp-title {
-  font-size: 15px;
+  font-size: 18px;
   color: var(--luka-text);
 }
 
@@ -372,7 +372,7 @@ body.theme-luka .publications ol.bibliography li {
 body.theme-luka .pub-content .title {
   margin-bottom: 4px;
   color: var(--luka-text);
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -380,6 +380,14 @@ body.theme-luka .pub-content .author {
   margin-bottom: 4px;
   color: var(--luka-secondary);
   font-size: 14px;
+}
+
+body.theme-luka .pub-content .author sup.equal {
+  font-size: 0.75em;
+}
+
+body.theme-luka .pub-content .author sup.corresponding {
+  font-size: 0.75em;
 }
 
 body.theme-luka .pub-content .periodical {
@@ -396,7 +404,7 @@ body.theme-luka .pub-content .links a {
 body.theme-luka .awards-grid {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 4px;
 }
 
 body.theme-luka .award-item {
@@ -435,7 +443,7 @@ body.theme-luka .award-text {
 body.theme-luka .news-grid {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 4px;
 }
 
 body.theme-luka .news-item {
@@ -459,6 +467,11 @@ body.theme-luka .news-date {
   font-size: 13px;
   color: var(--luka-secondary);
   font-style: italic;
+}
+
+body.theme-luka .news-icon {
+  flex-shrink: 0;
+  font-size: 20px;
 }
 
 body.theme-luka .site-footer {
