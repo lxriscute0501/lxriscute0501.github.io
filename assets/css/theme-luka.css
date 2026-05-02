@@ -401,9 +401,25 @@ body.theme-luka .awards-grid {
 
 body.theme-luka .award-item {
   display: flex;
-  align-items: center;
-  gap: 10px;
+  justify-content: space-between;
+  align-items: baseline;
   padding: 4px 0;
+  gap: 12px;
+}
+
+body.theme-luka .award-content {
+  flex: 1;
+  text-align: left;
+  color: var(--luka-text);
+  font-size: 14px;
+}
+
+body.theme-luka .award-date {
+  flex-shrink: 0;
+  text-align: right;
+  font-size: 13px;
+  color: var(--luka-secondary);
+  font-style: italic;
 }
 
 body.theme-luka .award-icon {
@@ -414,6 +430,35 @@ body.theme-luka .award-icon {
 body.theme-luka .award-text {
   color: var(--luka-text);
   font-size: 14px;
+}
+
+body.theme-luka .news-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+body.theme-luka .news-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 4px 0;
+  gap: 12px;
+}
+
+body.theme-luka .news-content {
+  flex: 1;
+  text-align: left;
+  color: var(--luka-text);
+  font-size: 14px;
+}
+
+body.theme-luka .news-date {
+  flex-shrink: 0;
+  text-align: right;
+  font-size: 13px;
+  color: var(--luka-secondary);
+  font-style: italic;
 }
 
 body.theme-luka .site-footer {
