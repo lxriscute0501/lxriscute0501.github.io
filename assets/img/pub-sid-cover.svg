@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-labelledby="title desc">
+  <title id="title">Synergistic Information Distillation cover</title>
+  <desc id="desc">A compact academic cover graphic showing local learning blocks linked by distilled information flow.</desc>
+  <rect width="480" height="360" fill="#faf9f7"/>
+  <rect x="24" y="24" width="432" height="312" rx="18" fill="#fff" stroke="#dfb7a5" stroke-width="2"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98 178h78M304 178h78M238 96v164" stroke="#c2714f" stroke-width="8"/>
+    <path d="M176 178c28-70 92-70 128 0M176 178c35 72 98 72 128 0" stroke="#8c8577" stroke-width="5"/>
+    <path d="M238 96c-34 30-55 58-62 82M238 96c34 30 58 58 66 82" stroke="#e28a67" stroke-width="4" opacity=".75"/>
+  </g>
+  <g>
+    <rect x="68" y="130" width="68" height="96" rx="12" fill="#f3dfd5" stroke="#c2714f" stroke-width="3"/>
+    <rect x="206" y="58" width="64" height="76" rx="12" fill="#f7eee9" stroke="#c2714f" stroke-width="3"/>
+    <rect x="344" y="130" width="68" height="96" rx="12" fill="#f3dfd5" stroke="#c2714f" stroke-width="3"/>
+    <rect x="206" y="226" width="64" height="76" rx="12" fill="#f7eee9" stroke="#c2714f" stroke-width="3"/>
+  </g>
+  <g fill="#3d3929" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">
+    <text x="90" y="186">L1</text>
+    <text x="225" y="104">D</text>
+    <text x="366" y="186">L2</text>
+    <text x="225" y="273">D</text>
+  </g>
+  <text x="40" y="318" fill="#8c8577" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600">Synergistic Information Distillation</text>
+</svg>
