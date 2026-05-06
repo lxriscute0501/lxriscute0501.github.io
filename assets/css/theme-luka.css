@@ -198,6 +198,13 @@ body.theme-luka .site-name {
   line-height: 1.2;
 }
 
+body.theme-luka .site-affiliation {
+  margin: 0 0 8px;
+  color: var(--luka-text);
+  font-size: 20px;
+  line-height: 0.8;
+}
+
 body.theme-luka .site-email {
   margin: 0 0 24px;
   color: var(--luka-secondary);
