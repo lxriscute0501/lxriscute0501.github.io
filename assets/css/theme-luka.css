@@ -200,7 +200,7 @@ body.theme-luka .site-name {
 
 body.theme-luka .site-affiliation {
   margin: 0 0 8px;
-  color: var(--luka-secondary);
+  color: var(--luka-text);
   font-size: 14px;
   line-height: 0.8;
 }
